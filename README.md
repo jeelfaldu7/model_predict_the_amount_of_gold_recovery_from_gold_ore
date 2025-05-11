@@ -44,8 +44,8 @@ Zyfra, a company focused on efficiency solutions for heavy industries, developed
 | Model                           | Rougher sMAPE | Final sMAPE | Combined Final sMAPE |
 | ------------------------------- | ------------- | ----------- | -------------------- |
 | Decision Tree Regressor (Train) | 9.28          | 8.41        | 8.63                 |
-| Decision Tree Regressor (Test)  | 9.20          | 10.20       | 10.00                |
 | Random Forest Regressor (Train) | 7.68          | 5.90        | 6.37                 |
+| Decision Tree Regressor (Test)  | 9.20          | 10.20       | 10.00                |
 
 Despite Random Forest yielding better accuracy, Decision Tree was chosen for test predictions due to its faster execution time, especially when working under limited computational resources.
 
