@@ -4,7 +4,7 @@ Zyfra, a company focused on efficiency solutions for heavy industries, developed
 ## 🎯 Project Objective
   - Develop a model to predict two critical targets:
       - `rougher.output.recovery`: Rougher gold concentrate recovery
-      - `final.output.recovery`6: Final gold concentrate recovery
+      - `final.output.recovery`: Final gold concentrate recovery
 
 ## 📊 Project Description
   -  The project explores industrial process data related to gold extraction and purification. A regression model was developed to predict gold recovery efficiency using training data and tested on a test set.
@@ -75,3 +75,6 @@ Despite Random Forest yielding better accuracy, Decision Tree was chosen for tes
 ## 🤝 Credits
 This project was created as part of the TripleTen Data Science program. Special thanks to: 
   - TripleTen instructors and peers for ongoing support and feedback
+
+## 🛡️ License
+This project is licensed under the MIT License.
